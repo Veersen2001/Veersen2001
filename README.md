@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veerbahadur Sen</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-<img align="right" alt="web-development" width="400" src="![image](https://github.com/Veersen2001/veerbahadur-Sen/assets/113298266/5001878a-c979-4233-aeff-c1d128df2180)
+<img align="right" alt="web-development" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif
 ">
 
 - 🌱 I’m currently learning **React,Express.js and javascript**
