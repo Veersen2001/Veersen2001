@@ -3,7 +3,7 @@
 
 <img align="right" alt="web-development" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
-- 🌱 I’m currently learning **React,Express.js and javascript**
+- 🌱 I’m currently learning **JavaScript,Express.js and ReactJs**
 
 - 📫 How to reach me **veerbahadursen@gmail.com**
 
