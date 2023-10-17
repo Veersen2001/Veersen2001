@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **JavaScript,Express.js and ReactJs**
 
 - 📫 How to reach me **veerbahadursen@gmail.com**
+-[![An image of @tammyalok2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tammyalok2)](https://holopin.io/@tammyalok2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
